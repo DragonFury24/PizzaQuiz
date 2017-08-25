@@ -18,6 +18,6 @@ public class VeggieType {
     }
 
     public void printAnswer(){
-
+        
     }
 }
