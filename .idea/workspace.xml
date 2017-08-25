@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a39c187-f000-403a-be2d-e93dd3d4c7a6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MeatType.java" afterPath="$PROJECT_DIR$/src/MeatType.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/VeggieType.java" afterPath="$PROJECT_DIR$/src/VeggieType.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,14 +25,14 @@
       <file leaf-file-name="QuizMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QuizMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
+            <state relative-caret-position="295">
               <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SeafoodType.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SeafoodType.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SeafoodType.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
@@ -55,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VeggieType.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VeggieType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VeggieType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="391">
+              <caret line="23" column="76" lean-forward="false" selection-start-line="23" selection-start-column="76" selection-end-line="23" selection-end-column="76" />
               <folding>
                 <element signature="e#137#145#0" expanded="true" />
               </folding>
@@ -671,17 +670,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/QuizMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
+        <state relative-caret-position="295">
           <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SeafoodType.java">
+    <entry file="file://$PROJECT_DIR$/src/VeggieType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="61" lean-forward="false" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
-          <folding />
+        <state relative-caret-position="391">
+          <caret line="23" column="76" lean-forward="false" selection-start-line="23" selection-start-column="76" selection-end-line="23" selection-end-column="76" />
+          <folding>
+            <element signature="e#137#145#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -695,13 +696,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VeggieType.java">
+    <entry file="file://$PROJECT_DIR$/src/SeafoodType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding>
-            <element signature="e#137#145#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="425">
+          <caret line="25" column="61" lean-forward="false" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
