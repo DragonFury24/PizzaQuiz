@@ -18,6 +18,7 @@ public class SeafoodType {
     }
 
     public void printAnswer(){
+        System.out.println();
         System.out.println("You go with the flow");
         System.out.println("and the flow goes with you");
         System.out.println("You're a lean thin crust topped");

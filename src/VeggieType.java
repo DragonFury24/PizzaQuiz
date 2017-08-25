@@ -18,6 +18,7 @@ public class VeggieType {
     }
 
     public void printAnswer(){
+        System.out.println();
         System.out.println("A piece of art that blends in with the earth itself,");
         System.out.println("the forces of nature command this plate.");
         System.out.println("With every bite, every crunch, roots entangle you,");
