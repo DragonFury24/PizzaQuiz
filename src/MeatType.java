@@ -19,6 +19,6 @@ public class MeatType {
     }
 
     public void printAnswer(){
-
+        
     }
 }

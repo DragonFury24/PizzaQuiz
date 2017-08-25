@@ -18,7 +18,12 @@ public class SeafoodType {
     }
 
     public void printAnswer(){
-
+        System.out.println("You go with the flow");
+        System.out.println("and the flow goes with you");
+        System.out.println("You're a lean thin crust topped");
+        System.out.println("with anchovies, shrimp, salmon.");
+        System.out.println("With every bite, the sounds of the waves");
+        System.out.println("crash onto the tip of the tongue.");
     }
 }
 
