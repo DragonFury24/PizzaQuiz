@@ -4,7 +4,7 @@ import java.util.*;
  * Created by Duy on 8/25/2017.
  */
 public class VeggieType {
-    List<String> questions = new ArrayList<String>();
+    private List<String> questions = new ArrayList<String>();
 
     public VeggieType() {
         questions.add("3) Wrapping yourself in seaweed");

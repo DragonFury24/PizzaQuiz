@@ -4,7 +4,7 @@ import java.util.*;
  * Created by Duy on 8/25/2017.
  */
 public class MeatType {
-    List<String> questions = new ArrayList<String>();
+    private List<String> questions = new ArrayList<String>();
 
     public MeatType() {
         questions.add("2) Burying yourself in sand");

@@ -87,7 +87,7 @@ public class QuizMain {
       return true;
    }
 
-   public static void printQuestion(SeafoodType seaFood, MeatType meat, VeggieType veggie) {
+   private static void printQuestion(SeafoodType seaFood, MeatType meat, VeggieType veggie) {
       seaFood.printQuestion();
       meat.printQuestion();
       veggie.printQuestion();

@@ -3,7 +3,7 @@ import java.util.*;
 
 public class SeafoodType {
 
-    List<String> questions = new ArrayList<String>();
+    private List<String> questions = new ArrayList<String>();
 
     public SeafoodType(){
         questions.add("1) Swimming in the ocean with fishes");
