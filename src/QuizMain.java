@@ -15,6 +15,8 @@ public class QuizMain {
       int[] ans = {0, 0, 0, 0};
    
       System.out.println();
+      System.out.println("What is your name?");
+      String name = input.nextLine();
       System.out.println("To answer, type in the number corresponding to the answer you want to choose");
       System.out.println("Press enter to continue...");
    
@@ -39,7 +41,9 @@ public class QuizMain {
    
       if (elementsEqual(ans)){personalityInt = 0;}
       else personalityInt = largestArrayElement(ans);
-   
+
+      System.out.println();
+      System.out.println(name + ",");
       switch(personalityInt) {
          case 0:
             System.out.println();
