@@ -22,7 +22,7 @@ public class MeatType {
     public void printAnswer() {
         System.out.println();
         System.out.println("Thick and well endowed, your crust is");
-        System.out.println("a den, holding inside a treasure trove of beauty");
+        System.out.println("a den, holding inside a treasure trove of beauty.");
         System.out.println("Filled to the brim with every possible meat,");
         System.out.println("A savory taste with every bite.");
     }
