@@ -11,7 +11,7 @@ public class SeafoodType {
         questions.add("1) Jumping into nearby rivers");
     }
 
-    public void printQuestion(){
+    public void printQuestion(){ //Choose a random question to output and then remove from questions ArrayList so it doesn't repeat
         int index  = (int)(Math.random() * questions.size());
         System.out.println(questions.get(index));
         questions.remove(index);

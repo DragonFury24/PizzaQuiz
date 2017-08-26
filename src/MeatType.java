@@ -12,7 +12,7 @@ public class MeatType {
         questions.add("2) Befriending wild animals");
     }
 
-    public void printQuestion(){
+    public void printQuestion(){ //Choose a random question to output and then remove from questions ArrayList so it doesn't repeat
         int index  = (int)(Math.random() * questions.size());
         System.out.println(questions.get(index));
         questions.remove(index);

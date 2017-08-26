@@ -44,7 +44,7 @@ public class QuizMain {
 
       System.out.println();
       System.out.println(name + ",");
-      switch(personalityInt) {
+      switch(personalityInt) { //Output answer depending on personality type
          case 0:
             System.out.println();
             System.out.println("You are in equilibrium with all.");

@@ -8,7 +8,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3a39c187-f000-403a-be2d-e93dd3d4c7a6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MeatType.java" afterPath="$PROJECT_DIR$/src/MeatType.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/QuizMain.java" afterPath="$PROJECT_DIR$/src/QuizMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SeafoodType.java" afterPath="$PROJECT_DIR$/src/SeafoodType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/VeggieType.java" afterPath="$PROJECT_DIR$/src/VeggieType.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +29,8 @@
       <file leaf-file-name="QuizMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/QuizMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+            <state relative-caret-position="221">
+              <caret line="46" column="76" lean-forward="false" selection-start-line="46" selection-start-column="76" selection-end-line="46" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -36,8 +39,8 @@
       <file leaf-file-name="SeafoodType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SeafoodType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            <state relative-caret-position="221">
+              <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -46,8 +49,8 @@
       <file leaf-file-name="MeatType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MeatType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            <state relative-caret-position="238">
+              <caret line="14" column="131" lean-forward="false" selection-start-line="14" selection-start-column="131" selection-end-line="14" selection-end-column="131" />
               <folding />
             </state>
           </provider>
@@ -56,8 +59,8 @@
       <file leaf-file-name="VeggieType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VeggieType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            <state relative-caret-position="221">
+              <caret line="13" column="131" lean-forward="false" selection-start-line="13" selection-start-column="131" selection-end-line="13" selection-end-column="131" />
               <folding />
             </state>
           </provider>
@@ -86,10 +89,10 @@
         <option value="$PROJECT_DIR$/src/QuestionOutput.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/QuizMain.java" />
         <option value="$PROJECT_DIR$/src/SeafoodType.java" />
         <option value="$PROJECT_DIR$/src/MeatType.java" />
         <option value="$PROJECT_DIR$/src/VeggieType.java" />
-        <option value="$PROJECT_DIR$/src/QuizMain.java" />
       </list>
     </option>
   </component>
@@ -710,34 +713,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SeafoodType.java">
+    <entry file="file://$PROJECT_DIR$/src/VeggieType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="221">
+          <caret line="13" column="131" lean-forward="false" selection-start-line="13" selection-start-column="131" selection-end-line="13" selection-end-column="131" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MeatType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        <state relative-caret-position="238">
+          <caret line="14" column="131" lean-forward="false" selection-start-line="14" selection-start-column="131" selection-end-line="14" selection-end-column="131" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VeggieType.java">
+    <entry file="file://$PROJECT_DIR$/src/SeafoodType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="221">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/QuizMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        <state relative-caret-position="221">
+          <caret line="46" column="76" lean-forward="false" selection-start-line="46" selection-start-column="76" selection-end-line="46" selection-end-column="76" />
           <folding />
         </state>
       </provider>
