@@ -12,12 +12,12 @@ public class SeafoodType {
 
     public void printQuestion() { //Choose a random question to output and then remove from questions ArrayList so it doesn't repeat
         int index = (int) (Math.random() * questions.size());
+
         System.out.println(questions.get(index));
         questions.remove(index);
     }
 
     public void printAnswer() {
-
         System.out.println();
         System.out.println("You go with the flow");
         System.out.println("and the flow goes with you");

@@ -9,10 +9,10 @@ public class QuizMain {
         MeatType meat = new MeatType();
         VeggieType veggie = new VeggieType();
 
+        int[] ansChoice = {0, 0, 0, 0}; //Index 0 is not used in order to align to answer choices
+
         System.out.println("What kind of pizza are you?");
         System.out.println("This quick and easy quiz will reveal the true you!");
-
-        int[] ansChoice = {0, 0, 0, 0};
 
         System.out.println();
         System.out.println("What is your name?");
@@ -77,6 +77,7 @@ public class QuizMain {
                 largestElement = i;
             }
         }
+
         return largestElement;
     }
 
