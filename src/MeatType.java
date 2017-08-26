@@ -12,13 +12,13 @@ public class MeatType {
         questions.add("2) Befriending wild animals");
     }
 
-    public void printQuestion(){ //Choose a random question to output and then remove from questions ArrayList so it doesn't repeat
-        int index  = (int)(Math.random() * questions.size());
+    public void printQuestion() { //Choose a random question to output and then remove from questions ArrayList so it doesn't repeat
+        int index = (int) (Math.random() * questions.size());
         System.out.println(questions.get(index));
         questions.remove(index);
     }
 
-    public void printAnswer(){
+    public void printAnswer() {
         System.out.println();
         System.out.println("Thick and well endowed, your crust is");
         System.out.println("a den, holding inside a treasure trove of beauty");

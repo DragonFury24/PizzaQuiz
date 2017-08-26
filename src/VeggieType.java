@@ -11,13 +11,14 @@ public class VeggieType {
         questions.add("3) Finding shade underneath a tree");
         questions.add("3) Clothing yourself with lettuce");
     }
-    public void printQuestion(){ //Choose a random question to output and then remove from questions ArrayList so it doesn't repeat
-        int index  = (int)(Math.random() * questions.size());
+
+    public void printQuestion() { //Choose a random question to output and then remove from questions ArrayList so it doesn't repeat
+        int index = (int) (Math.random() * questions.size());
         System.out.println(questions.get(index));
         questions.remove(index);
     }
 
-    public void printAnswer(){
+    public void printAnswer() {
         System.out.println();
         System.out.println("A piece of art that blends in with the earth itself,");
         System.out.println("the forces of nature command this plate.");

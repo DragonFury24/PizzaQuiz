@@ -12,7 +12,7 @@ public class QuizMain {
         System.out.println("What kind of pizza are you?");
         System.out.println("This quick and easy quiz will reveal the true you!");
 
-        int[] ans = {0, 0, 0, 0};
+        int[] ansChoice = {0, 0, 0, 0};
 
         System.out.println();
         System.out.println("What is your name?");
@@ -27,17 +27,19 @@ public class QuizMain {
 
         System.out.println("You enjoy...");
 
-        for (int i = 0; i < ans.length - 1; i++) {
+        for (int i = 0; i < ansChoice.length - 1; i++) {
             System.out.println();
             seaFood.printQuestion();
             meat.printQuestion();
             veggie.printQuestion();
-            ans[input.nextInt()]++;
+            ansChoice[input.nextInt()]++;
         }
 
         int personalityInt; //0 = EnjoysAllTypes, 1 = SeafoodLover, 2 = MeatLover, 3 = VeggieLover
 
-        if (elementsEqual(ans)) {personalityInt = 0;} else personalityInt = largestArrayElement(ans);
+        if (elementsEqual(ansChoice)) {
+            personalityInt = 0;
+        } else personalityInt = largestArrayElement(ansChoice);
 
         System.out.println();
         System.out.println(name + ",");
@@ -86,6 +88,7 @@ public class QuizMain {
                 return false;
             }
         }
+
         return true;
     }
 }

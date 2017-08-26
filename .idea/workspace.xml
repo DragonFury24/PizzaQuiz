@@ -10,9 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a39c187-f000-403a-be2d-e93dd3d4c7a6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MeatType.java" afterPath="$PROJECT_DIR$/src/MeatType.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/QuizMain.java" afterPath="$PROJECT_DIR$/src/QuizMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SeafoodType.java" afterPath="$PROJECT_DIR$/src/SeafoodType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/VeggieType.java" afterPath="$PROJECT_DIR$/src/VeggieType.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +32,8 @@
       <file leaf-file-name="QuizMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/QuizMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+            <state relative-caret-position="1020">
+              <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -40,9 +42,11 @@
       <file leaf-file-name="SeafoodType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SeafoodType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-              <folding />
+            <state relative-caret-position="340">
+              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <folding>
+                <element signature="e#99#107#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,8 +54,8 @@
       <file leaf-file-name="MeatType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MeatType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="131" lean-forward="false" selection-start-line="14" selection-start-column="131" selection-end-line="14" selection-end-column="131" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,8 +64,8 @@
       <file leaf-file-name="VeggieType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VeggieType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="131" lean-forward="false" selection-start-line="13" selection-start-column="131" selection-end-line="13" selection-end-column="131" />
+            <state relative-caret-position="85">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -90,10 +94,10 @@
         <option value="$PROJECT_DIR$/src/QuestionOutput.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/SeafoodType.java" />
         <option value="$PROJECT_DIR$/src/MeatType.java" />
         <option value="$PROJECT_DIR$/src/VeggieType.java" />
         <option value="$PROJECT_DIR$/src/QuizMain.java" />
+        <option value="$PROJECT_DIR$/src/SeafoodType.java" />
       </list>
     </option>
   </component>
@@ -455,7 +459,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding />
+          <folding>
+            <element signature="e#99#107#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -487,7 +493,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding />
+          <folding>
+            <element signature="e#99#107#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -519,7 +527,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding />
+          <folding>
+            <element signature="e#99#107#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -551,7 +561,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
+          <folding>
+            <element signature="e#99#107#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -583,7 +595,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
+          <folding>
+            <element signature="e#99#107#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -615,7 +629,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#99#107#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -647,7 +663,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#99#107#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -679,7 +697,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#99#107#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -711,7 +731,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#99#107#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -746,34 +768,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VeggieType.java">
+    <entry file="file://$PROJECT_DIR$/src/SeafoodType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="131" lean-forward="false" selection-start-line="13" selection-start-column="131" selection-end-line="13" selection-end-column="131" />
-          <folding />
+        <state relative-caret-position="340">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <element signature="e#99#107#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MeatType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="131" lean-forward="false" selection-start-line="14" selection-start-column="131" selection-end-line="14" selection-end-column="131" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SeafoodType.java">
+    <entry file="file://$PROJECT_DIR$/src/VeggieType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        <state relative-caret-position="85">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/QuizMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        <state relative-caret-position="1020">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
           <folding />
         </state>
       </provider>
