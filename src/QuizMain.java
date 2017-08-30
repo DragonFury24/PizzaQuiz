@@ -4,7 +4,7 @@ public class QuizMain {
 
     public static void main(String[] args) {
 
-        Scanner input = new Scanner(System.in);
+        Scanner keyType = new Scanner(System.in);
         SeafoodType seaFood = new SeafoodType();
         MeatType meat = new MeatType();
         VeggieType veggie = new VeggieType();
@@ -16,7 +16,7 @@ public class QuizMain {
 
         System.out.println();
         System.out.println("What is your name?");
-        String name = input.nextLine();
+        String name = keyType.nextLine();
         System.out.println("To answer, type in the number corresponding to the answer you want to choose");
         System.out.println("Press enter to continue...");
 
@@ -32,7 +32,7 @@ public class QuizMain {
             seaFood.printQuestion();
             meat.printQuestion();
             veggie.printQuestion();
-            ansChoice[input.nextInt()]++;
+            ansChoice[keyType.nextInt()]++;
         }
 
         int personalityInt; //0 = EnjoysAllTypes, 1 = SeafoodLover, 2 = MeatLover, 3 = VeggieLover
