@@ -70,26 +70,20 @@ public class QuizMain {
     public static int largestArrayElement(int[] integers) {
         int largestElement = 0;
         int largestNumber = 0;
-
         for (int i = 1; i < integers.length; i++) {
             if (largestNumber < integers[i]) {
                 largestNumber = integers[i];
                 largestElement = i;
             }
         }
-
         return largestElement;
     }
 
     public static boolean elementsEqual(int[] integers) {
         int firstElement = integers[1];
-
-        for (int integer : integers) {
-            if (integer != firstElement) {
+        for (int i = 1; i < integers.length; i++)
+            if (integers[i] != firstElement)
                 return false;
-            }
-        }
-
         return true;
     }
 }
