@@ -27,5 +27,3 @@ public class SeafoodType {
         System.out.println("crash onto the tip of the tongue.");
     }
 }
-
-
